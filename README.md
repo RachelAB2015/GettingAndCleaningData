@@ -1,4 +1,4 @@
-## This file explains how all of the scripts work and how they are connected.  
+This file explains how all of the scripts work and how they are connected.  
 
 ## Data and Location of Files
 Download data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
