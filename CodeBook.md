@@ -1,4 +1,4 @@
-*** Note: I don't fully understand everything that was involved in this experiment, so I am describing the variables as best as I can given the information in features_info.txt provided with the course project. I also had trouble figuring out the units of measurement for the variables/columns provided with this project, hence I have not included any info on that (even though a CodeBook ought to...) ***
+** Note: I don't fully understand everything that was involved in this experiment, so I am describing the variables as best as I can given the information in features_info.txt provided with the course project. I also had trouble figuring out the units of measurement for the variables/columns provided with this project, hence I have not included any info on that (even though a CodeBook ought to...) **
 
 ## Dataframe: human.activity.means
 subject (column 1)

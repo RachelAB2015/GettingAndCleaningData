@@ -1,4 +1,4 @@
-# This file explains run_analysis.R
+** This file explains run_analysis.R **
 
 ## Data and Location of Files
 Data is stored in the same directory as the analysis file (in subfolder).
