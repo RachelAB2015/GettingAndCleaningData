@@ -1,9 +1,12 @@
-This file explains run_analysis.R
+# This file explains run_analysis.R
 
 ## Data and Location of Files
+Data is stored in the same directory as the analysis file (in subfolder).
+
 Download data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 Unzip data to subfolder called "UCI HAR Dataset"
-Data is stored in the same directory as the analysis file (in subfolder).
+
+This script uses the following R packages: dplyr, which are called in the script. If they are not yet installed, use install.packages("dplyr")
 
 ## (1) Merge/concatenate the training and test datasets to create one data set.
 ### Step 1
@@ -49,7 +52,7 @@ Code for checking output dataset (commented out in run_analysis.R):
 
 This text file is also at Git Hub. 
 
-
+**** 
 ## References
 Hadley Wickham on Tidy Data: http://vita.had.co.nz/papers/tidy-data.pdf
 Variable naming conventions: https://class.coursera.org/getdata-030/forum/thread?thread_id=184
