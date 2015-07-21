@@ -47,6 +47,7 @@ Code for checking output dataset (commented out in run_analysis.R):
   data <- read.table("./CourseraGetDataProject.txt", header = TRUE) 
   View(data)
 
+This text file is also at Git Hub. 
 
 
 ## References
