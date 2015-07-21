@@ -1,9 +1,9 @@
-** This file explains run_analysis.R **
+__This file explains run_analysis.R__
 
 ## Data and Location of Files
 Data is stored in the same directory as the analysis file (in subfolder).
 
-Download data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+Download data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
 Unzip data to subfolder called "UCI HAR Dataset"
 
 This script uses the following R packages: dplyr, which are called in the script. If they are not yet installed, use install.packages("dplyr")
@@ -54,8 +54,8 @@ This text file is also at Git Hub.
 
 **** 
 ## References
-Hadley Wickham on Tidy Data: http://vita.had.co.nz/papers/tidy-data.pdf
-Variable naming conventions: https://class.coursera.org/getdata-030/forum/thread?thread_id=184
-Source of code for read.table: https://class.coursera.org/getdata-030/forum/thread?thread_id=37
+Hadley Wickham on Tidy Data: http://vita.had.co.nz/papers/tidy-data.pdf  
+Variable naming conventions: https://class.coursera.org/getdata-030/forum/thread?thread_id=184  
+Source of code for read.table: https://class.coursera.org/getdata-030/forum/thread?thread_id=37  
 
 
